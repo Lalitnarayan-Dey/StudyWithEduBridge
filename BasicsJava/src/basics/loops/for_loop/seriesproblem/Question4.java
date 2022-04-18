@@ -7,7 +7,7 @@ public class Question4 {
 		
 //			Print 1 9 25 49 . . . n
 		
-		System.out.println("Enter number : ");
+		System.out.println("Enter range : ");
 		Scanner sc = new Scanner(System.in);
 		int range=sc.nextInt();
 		int result = 0;
